@@ -1,0 +1,750 @@
+[
+    {
+        "title": "Сыр полутвердый Качотта АШАН Золотая птица 45% БЗМЖ, 240 г",
+        "promo_price": 289.9,
+        "oldPrice": 399.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "939788",
+        "url": "https://www.auchan.ru/product/zp-syr-kachotta-240-gr-bzmzh"
+    },
+    {
+        "title": "Сыр полутвердый Качотта АШАН Золотая птица с паприкой и травами 45% БЗМЖ, 240 г",
+        "promo_price": 289.9,
+        "oldPrice": 399.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "939785",
+        "url": "https://www.auchan.ru/product/zp-syr-kachotta-s-paprikoy-i-tr-240g"
+    },
+    {
+        "title": "Сыр полутвердый Качотта с пажитником АШАН Золотая птица 45% БЗМЖ, 240 г",
+        "promo_price": 289.9,
+        "oldPrice": 399.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "939797",
+        "url": "https://www.auchan.ru/product/zp-kachotta-s-pazhitnikom-240-gr"
+    },
+    {
+        "title": "Сыр АШАН Золотая птица халуми с петрушкой и чесноком 50% БЗМЖ, 100 г",
+        "promo_price": 149.9,
+        "oldPrice": 199.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "80197",
+        "url": "https://www.auchan.ru/product/zp-halumi-s-petr-i-chesn-100g"
+    },
+    {
+        "title": "Сыр мягкий АШАН Красная птица Сливочный 50% БЗМЖ, 400 г",
+        "promo_price": 299,
+        "oldPrice": 399.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "18473",
+        "url": "https://www.auchan.ru/product/kp-syr-sliv-50-cil-400g-bzmzh"
+    },
+    {
+        "title": "Сыр мягкий АШАН Красная птица Сливочный топленое молоко 50% БЗМЖ, 400 г",
+        "promo_price": 299,
+        "oldPrice": 399.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "18468",
+        "url": "https://www.auchan.ru/product/kp-syr-topl-mol50-cil-400gbzmzh"
+    },
+    {
+        "title": "Сыр полутвердый АШАН Золотая птица Халуми 50% БЗМЖ, 100 г",
+        "promo_price": 149.9,
+        "oldPrice": 199.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "68321",
+        "url": "https://www.auchan.ru/product/zp-syr-halumi-bzmzh-100g"
+    },
+    {
+        "title": "Сыр рассольный Халуми АШАН Золотая птица с паприкой 50% БЗМЖ, 100 г",
+        "promo_price": 149.9,
+        "oldPrice": 199.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "80205",
+        "url": "https://www.auchan.ru/product/zp-halumi-s-papr-bzmzh-100g"
+    },
+    {
+        "title": "Сыр твердый Монтази АШАН Золотая Птица 45% БЗМЖ, 190 г",
+        "promo_price": 269.9,
+        "oldPrice": 359.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "101862",
+        "url": "https://www.auchan.ru/product/zp-syr-montazi-190g-bzmzh"
+    },
+    {
+        "title": "Сыр плавленый с ветчиной АШАН Красная птица 50%, 400 г",
+        "promo_price": 189.9,
+        "oldPrice": 249.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "800614",
+        "url": "https://www.auchan.ru/product/kpsyr_plavl_vetchina_400g"
+    },
+    {
+        "title": "Сыр плавленый с грибами АШАН Красная птица 50%, 400 г",
+        "promo_price": 189.9,
+        "oldPrice": 249.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "800609",
+        "url": "https://www.auchan.ru/product/kpsyr_plavl_grib_400g"
+    },
+    {
+        "title": "Сыр плавленый сливочный АШАН Красная птица 50%, 400 г",
+        "promo_price": 189.9,
+        "oldPrice": 249.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "800603",
+        "url": "https://www.auchan.ru/product/kpsyr_plavl_sliv_400g"
+    },
+    {
+        "title": "Сыр Камамбер АШАН Красная птица БЗМЖ, 125 г",
+        "promo_price": 179.9,
+        "oldPrice": 229.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "111666",
+        "url": "https://www.auchan.ru/product/kp-syr-kamamber-125g-bzmzh"
+    },
+    {
+        "title": "Сыр твердый АШАН Красная птица Маасдам 45% нарезка БЗМЖ, 150 г",
+        "promo_price": 124.9,
+        "oldPrice": 159.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "507885",
+        "url": "https://www.auchan.ru/product/syr-lakomo-edam-40-narezka-350-g"
+    },
+    {
+        "title": "Сыр Пармезан в лепестках АШАН Красная птица 40% БЗМЖ, 100 г",
+        "promo_price": 149.9,
+        "oldPrice": 189.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "126202",
+        "url": "https://www.auchan.ru/product/kp-syr-parmezan-lepestki-100g"
+    },
+    {
+        "title": "Сыр плавленый с ветчиной АШАН Красная птица 50% БЗМЖ, 200 г",
+        "promo_price": 109.9,
+        "oldPrice": 139.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "344214",
+        "url": "https://www.auchan.ru/product/syr-plavlenyy-auchan-krasnaya-ptica-s-vetchinoy-50-200-g"
+    },
+    {
+        "title": "Сыр плавленый с грибами АШАН Красная птица БЗМЖ, 200 г",
+        "promo_price": 109.9,
+        "oldPrice": 139.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "344207",
+        "url": "https://www.auchan.ru/product/syr-plavlenyy-auchan-krasnaya-ptica-s-gribami-200-g"
+    },
+    {
+        "title": "Сыр плавленый сливочный АШАН Красная птица 50% БЗМЖ, 200 г",
+        "promo_price": 109.9,
+        "oldPrice": 139.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "344192",
+        "url": "https://www.auchan.ru/product/syr-plavlenyy-auchan-krasnaya-ptica-slivochnyy-50-200-g"
+    },
+    {
+        "title": "Сыр АШАН Красная птица Легкий БЗМЖ, 200 г",
+        "promo_price": 159.9,
+        "oldPrice": 199.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "925090",
+        "url": "https://www.auchan.ru/product/kp-legkiy-kusok-200g"
+    },
+    {
+        "title": "Сыр полутвердый чечил спагетти АШАН Красная птица 40% БЗМЖ, 100 г",
+        "promo_price": 119.9,
+        "oldPrice": 149.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "943168",
+        "url": "https://www.auchan.ru/product/syr-chechil-spagetti-auchan-krasnaya-ptica-40-100-g"
+    },
+    {
+        "title": "Сыр мягкий Рикотта АШАН Красная птица 25% БЗМЖ, 250 г",
+        "promo_price": 129.9,
+        "oldPrice": 159.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "907994",
+        "url": "https://www.auchan.ru/product/kp-syr-rikotta-mdzh-25-250g"
+    },
+    {
+        "title": "Сыр полутвердый АШАН Красная птица сливочный 50% БЗМЖ, ~ 200 гр",
+        "promo_price": 79.9,
+        "oldPrice": 98.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "78429",
+        "url": "https://www.auchan.ru/product/kp-syr-sliv-50-1-2-shara-ves"
+    },
+    {
+        "title": "Сыр полутвердый коса копченый АШАН Красная птица 40% БЗМЖ, 110 г",
+        "promo_price": 129.9,
+        "oldPrice": 159.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "943144",
+        "url": "https://www.auchan.ru/product/syr-krasnaya-ptica-kosa-kopchenyy-40-110-g"
+    },
+    {
+        "title": "Сыр твердый АШАН Красная птица Маасдам 45% нарезка БЗМЖ, 350 г",
+        "promo_price": 299,
+        "oldPrice": 365.84,
+        "brand": "АШАН Красная птица",
+        "articleId": "507889",
+        "url": "https://www.auchan.ru/product/syr-polutverdyy-lakomo-maasdam-45-narezka-350-g"
+    },
+    {
+        "title": "Сыр твердый АШАН Красная птица Пармезан 6 месяцев кусок 34%, 200 г",
+        "promo_price": 229,
+        "oldPrice": 278.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "915461",
+        "url": "https://www.auchan.ru/product/kp-parmezan-kusok-200g"
+    },
+    {
+        "title": "Сыр АШАН Красная птица Легкий нарезка БЗМЖ, 125 г",
+        "promo_price": 99.9,
+        "oldPrice": 119.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "925084",
+        "url": "https://www.auchan.ru/product/kp-legkiy-narezka-125g"
+    },
+    {
+        "title": "Сыр мягкий Адыгейский АШАН Красная птица 45% БЗМЖ, 300 г",
+        "promo_price": 249,
+        "oldPrice": 299.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "943155",
+        "url": "https://www.auchan.ru/product/syr-myagkiy-auchan-krasnaya-ptica-adygeyskiy-45-300-g"
+    },
+    {
+        "title": "Сыр мягкий Маскарпоне АШАН Красная птица 80% БЗМЖ, 500 г",
+        "promo_price": 379,
+        "oldPrice": 457.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "113338",
+        "url": "https://www.auchan.ru/product/kp-syr-maskarpone-80-500g"
+    },
+    {
+        "title": "Сыр полутвердый АШАН Красная птица Гауда 45% нарезка БЗМЖ, 150 г",
+        "promo_price": 124.9,
+        "oldPrice": 149.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "507893",
+        "url": "https://www.auchan.ru/product/syr-polutverdyy-lakomo-gauda-48-narezka-150-g"
+    },
+    {
+        "title": "Сыр полутвердый Качотта с оливковым маслом АШАН Золотая птица БЗМЖ, 240 г",
+        "promo_price": 289.9,
+        "oldPrice": 349.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "78443",
+        "url": "https://www.auchan.ru/product/zp-kachotta-s-oliv-maslom-240g"
+    },
+    {
+        "title": "Сыр твердый АШАН Красная птица Эдам 45% нарезка БЗМЖ, 150 г",
+        "promo_price": 124.9,
+        "oldPrice": 149.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "507874",
+        "url": "https://www.auchan.ru/product/syr-polutverdyy-lakomo-edam-40-narezka-150-g"
+    },
+    {
+        "title": "Сыр тертый АШАН Красная птица Пармезан БЗМЖ, 150 г",
+        "promo_price": 189.9,
+        "oldPrice": 228.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "915394",
+        "url": "https://www.auchan.ru/product/kp-parmezan-tertyy-150-g"
+    },
+    {
+        "title": "Сыр АШАН Красная птица Моцарелла тертый БЗМЖ, 200 г",
+        "promo_price": 159.9,
+        "oldPrice": 189.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "509082",
+        "url": "https://www.auchan.ru/product/syr-lakomo-mocarella-40-tertyy-200-g"
+    },
+    {
+        "title": "Сыр твердый АШАН Красная птица Эдам тертый 45% БЗМЖ, 200 г",
+        "promo_price": 159.9,
+        "oldPrice": 189.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "509077",
+        "url": "https://www.auchan.ru/product/syr-lakomo-edam-40-tertyy-200-g"
+    },
+    {
+        "title": "Сыр полутвердый Качотта из козьего молока АШАН Золотая птица БЗМЖ, 220 г",
+        "promo_price": 399.9,
+        "oldPrice": 469.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "78445",
+        "url": "https://www.auchan.ru/product/zp-kachotta-iz-koz-mol-220g"
+    },
+    {
+        "title": "Сыр полутвердый Сулугуни АШАН Красная птица 40% БЗМЖ, 300 г",
+        "promo_price": 299,
+        "oldPrice": 349.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "943217",
+        "url": "https://www.auchan.ru/product/syr-rassolnyy-auchan-krasnaya-ptica-suluguni-40-300-g"
+    },
+    {
+        "title": "Фета АШАН Красная птица 35% БЗМЖ, 330 г",
+        "promo_price": 169.9,
+        "oldPrice": 199.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "144572",
+        "url": "https://www.auchan.ru/product/kp-syr-feta-ras-35-330g-bzmzh"
+    },
+    {
+        "title": "Сыр полутвердый Качотта с трюфелем АШАН Золотая птица 45% БЗМЖ, 240 г",
+        "promo_price": 459.9,
+        "oldPrice": 536.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "939786",
+        "url": "https://www.auchan.ru/product/zp-syr-kachotta-s-tryufelem-240g"
+    },
+    {
+        "title": "Сыр рассольный Моцарелла для пиццы АШАН Красная птица 45% БЗМЖ, 280 г",
+        "promo_price": 249,
+        "oldPrice": 289.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "807204",
+        "url": "https://www.auchan.ru/product/kpmocarella_dlya_piccy_280g"
+    },
+    {
+        "title": "Сыр слоистый Чечил Ассорти № 1 с травами и копченой паприкой АШАН Красная птица 45% БЗМЖ, 150 г",
+        "promo_price": 179.9,
+        "oldPrice": 209.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "122530",
+        "url": "https://www.auchan.ru/product/kp-chechil-travy-paprika-150g"
+    },
+    {
+        "title": "Сыр слоистый Чечил Ассорти № 2 с укропом и васаби АШАН Красная птица 45% БЗМЖ, 150 г",
+        "promo_price": 179.9,
+        "oldPrice": 209.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "122538",
+        "url": "https://www.auchan.ru/product/kp-chechil-assor-ukr-vasabi-150g"
+    },
+    {
+        "title": "Сыр твердый АШАН Красная птица Маасдам БЗМЖ, 200 г",
+        "promo_price": 189.9,
+        "oldPrice": 219.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "774105",
+        "url": "https://www.auchan.ru/product/kpsyr_maasdam_200g_bzmzh"
+    },
+    {
+        "title": "Сыр полутвердый АШАН Красная птица Гауда 45% нарезка БЗМЖ, 350 г",
+        "promo_price": 299,
+        "oldPrice": 342.98,
+        "brand": "АШАН Красная птица",
+        "articleId": "507897",
+        "url": "https://www.auchan.ru/product/syr-tverdyy-lakomo-gauda-48-narezka-350-g"
+    },
+    {
+        "title": "Сыр рассольный АШАН Красная птица Моцарелла в воде 45% БЗМЖ, 125 г",
+        "promo_price": 139.9,
+        "oldPrice": 159.9,
+        "brand": "АШАН Красная птица",
+        "articleId": "907570",
+        "url": "https://www.auchan.ru/product/syr-rassolnyy-auchan-krasnaya-ptica-mocarella-chiledzhina-45-125-g"
+    },
+    {
+        "title": "Сыр рассольный Мини моцарелла АШАН Красная птица 45% БЗМЖ, 125 г",
+        "promo_price": 139.9,
+        "oldPrice": 159.9,
+        "brand": "АШАН Красная птица",
+        "articleId": "907569",
+        "url": "https://www.auchan.ru/product/mocarella-krasnaya-ptica-fior-di-latte-v-vode-45-125-g"
+    },
+    {
+        "title": "Сыр копченый АШАН Красная птица колбасный в нарезке БЗМЖ, 150 г",
+        "promo_price": 87.9,
+        "oldPrice": 99.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "14031",
+        "url": "https://www.auchan.ru/product/kp-syr-kolbasnyy-v-nar-150-g"
+    },
+    {
+        "title": "Сыр полутвердый АШАН Красная птица Тильзитер нарезка 45% БЗМЖ, 150 г",
+        "promo_price": 124.9,
+        "oldPrice": 139.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "507914",
+        "url": "https://www.auchan.ru/product/syr-polutverdyy-auchan-krasnaya-ptica-tilziter-narezka-45-150-g"
+    },
+    {
+        "title": "Сыр полутвердый АШАН Красная птица Тильзитер нарезка 45% БЗМЖ, 350 г",
+        "promo_price": 299,
+        "oldPrice": 320.11,
+        "brand": "АШАН Красная птица",
+        "articleId": "507920",
+        "url": "https://www.auchan.ru/product/syr-polutverdyy-auchan-krasnaya-ptica-tilziter-narezka-45-350-g"
+    },
+    {
+        "title": "Сыр АШАН Красная птица Легкий в нарезке БЗМЖ, 350 г",
+        "price": 329.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "977781",
+        "url": "https://www.auchan.ru/product/kp-legkiy-narezka-350g-bzmzh"
+    },
+    {
+        "title": "Сыр Бри АШАН Красная птица БЗМЖ, 125 г",
+        "price": 229.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "111665",
+        "url": "https://www.auchan.ru/product/kp-syr-bri-125g-bzmzh"
+    },
+    {
+        "title": "Сыр Лангр АШАН Золотая птица БЗМЖ, 100 г",
+        "price": 319.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "948513",
+        "url": "https://www.auchan.ru/product/zp-langr-100-gr-bzmzh"
+    },
+    {
+        "title": "Сыр Скаморца АШАН Золотая птица 40% БЗМЖ, 100 г",
+        "price": 129.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "111645",
+        "url": "https://www.auchan.ru/product/zp-syr-skamorca-100g-bzmzh"
+    },
+    {
+        "title": "Сыр Тильзитер АШАН Красная птица 45% БЗМЖ, 200 г",
+        "price": 169.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "106444",
+        "url": "https://www.auchan.ru/product/kp-syr-tilziter-45-200g"
+    },
+    {
+        "title": "Сыр Шевр АШАН Золотая птица с острым перцем 45% БЗМЖ, 100 г",
+        "price": 269.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "948496",
+        "url": "https://www.auchan.ru/product/zp-shevr-s-ostrym-percem-100gr"
+    },
+    {
+        "title": "Сыр копченый Боккончини АШАН Золотая птица, 100 г",
+        "price": 129.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "111604",
+        "url": "https://www.auchan.ru/product/zp-syr-bokkonchini-kopch-100g"
+    },
+    {
+        "title": "Сыр копченый Перлини АШАН Золотая птица, 100 г",
+        "price": 139.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "111605",
+        "url": "https://www.auchan.ru/product/zp-syr-perlini-kopch-100g"
+    },
+    {
+        "title": "Сыр копченый Перлини АШАН Золотая птица, 50 г",
+        "price": 89.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "111607",
+        "url": "https://www.auchan.ru/product/zp-syr-perlini-kopch-50g"
+    },
+    {
+        "title": "Сыр мягкий «Каждый день» Сулугуни 45% БЗМЖ, 200 г",
+        "price": 179.98,
+        "brand": "Каждый день",
+        "articleId": "769440",
+        "url": "https://www.auchan.ru/product/kdsyr_suluguni_200g_bzmzh"
+    },
+    {
+        "title": "Сыр мягкий АШАН Золотая птица Бри с двойными сливками БЗМЖ, 125 г",
+        "price": 299.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "75810",
+        "url": "https://www.auchan.ru/product/zp-bri-s-dv-slivk-bzmzh-125g"
+    },
+    {
+        "title": "Сыр мягкий АШАН Золотая птица Горгонзола с голубой плесенью 50% БЗМЖ, 150 г",
+        "price": 389.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "817933",
+        "url": "https://www.auchan.ru/product/zp-gorgonzola-150gr-bzmzh"
+    },
+    {
+        "title": "Сыр мягкий АШАН Золотая птица Камамбер из козьего молока 45% БЗМЖ, 150 г",
+        "price": 429.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "818087",
+        "url": "https://www.auchan.ru/product/zp-kamamber-koz-mol-150gr-bzmzh"
+    },
+    {
+        "title": "Сыр мягкий АШАН Золотая птица Камамбер с белой плесенью 50% БЗМЖ, 125 г",
+        "price": 259.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "73647",
+        "url": "https://www.auchan.ru/product/zp-kamamber-kor-mol-125gr-bzmzh"
+    },
+    {
+        "title": "Сыр мягкий АШАН Золотая птица Кротен из козьего молока 50% БЗМЖ, 100 г",
+        "price": 299.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "818096",
+        "url": "https://www.auchan.ru/product/zp-kroten-100gr-bzmzh"
+    },
+    {
+        "title": "Сыр мягкий АШАН Золотая птица Сен-Мор из козьего молока с белой плесенью 45% БЗМЖ, 130 г",
+        "price": 403.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "918109",
+        "url": "https://www.auchan.ru/product/zp-sent-mor-130-g"
+    },
+    {
+        "title": "Сыр мягкий АШАН Золотая птица Стилтонъ с благородной голубой плесенью 55% БЗМЖ, 150 г",
+        "price": 399.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "817939",
+        "url": "https://www.auchan.ru/product/zp-stilton-150gr-bzmzh"
+    },
+    {
+        "title": "Сыр мягкий АШАН Золотая птица Шевр Классический из козьего молока 45% БЗМЖ, 100 г",
+        "price": 269.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "818092",
+        "url": "https://www.auchan.ru/product/zp-shevr-100gr-bzmzh"
+    },
+    {
+        "title": "Сыр мягкий АШАН Золотая птица Шевр из козьего молока с прованскими травами 45% БЗМЖ, 100 г",
+        "price": 269.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "818091",
+        "url": "https://www.auchan.ru/product/zp-shevr-prov-travy-100gr-bzmzh"
+    },
+    {
+        "title": "Сыр мягкий АШАН Золотая птица Шевр из козьего молока с томатом и кунжутом 45% БЗМЖ, 100 г",
+        "price": 269.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "818089",
+        "url": "https://www.auchan.ru/product/zp-shevr-tom-kunzh-100gr-bzmzh"
+    },
+    {
+        "title": "Сыр мягкий Бри с белой плесенью АШАН Золотая птица 60% БЗМЖ, вес",
+        "price": 189.9,
+        "brand": "АШАН Золотая птица",
+        "articleId": "100658",
+        "url": "https://www.auchan.ru/product/zp-syr-bri-60-bzmzh-ves"
+    },
+    {
+        "title": "Сыр мягкий с белой плесенью Грильмамбер АШАН Золотая птица 50% БЗМЖ, 150 г",
+        "price": 309.99,
+        "brand": "АШАН Золотая птица",
+        "articleId": "94655",
+        "url": "https://www.auchan.ru/product/zp-syr-grilmamber-150g"
+    },
+    {
+        "title": "Сыр плавленый ассорти АШАН Красная птица БЗМЖ, 130 г",
+        "price": 107.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "800577",
+        "url": "https://www.auchan.ru/product/kpsyr_plavassorti_segm130g"
+    },
+    {
+        "title": "Сыр плавленый с ветчиной порционный АШАН Красная птица 45% БЗМЖ, 130 г",
+        "price": 99.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "848647",
+        "url": "https://www.auchan.ru/product/syr-plavlenyy-auchan-krasnaya-ptica-s-vetchinoy-130-g"
+    },
+    {
+        "title": "Сыр плавленый с ветчиной порционный АШАН Красная птица 50% БЗМЖ, 130 г",
+        "price": 107.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "854376",
+        "url": "https://www.auchan.ru/product/syr-plavlenyy-auchan-krasnaya-ptica-s-gribami-50-130-g"
+    },
+    {
+        "title": "Сыр плавленый с грибами АШАН Красная птица 45% БЗМЖ, 130 г",
+        "price": 99.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "848648",
+        "url": "https://www.auchan.ru/product/syr-plavlenyy-auchan-krasnaya-ptica-slivochnyy-s-gribami-45-130-g"
+    },
+    {
+        "title": "Сыр плавленый с грибами порционный АШАН Красная птица 50% БЗМЖ, 130 г",
+        "price": 107.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "854377",
+        "url": "https://www.auchan.ru/product/syr-plavlenyy-auchan-krasnaya-ptica-s-vetchinoy-porcionnyy-50-130-g"
+    },
+    {
+        "title": "Сыр плавленый слайсы сливочные АШАН Красная птица 45% БЗМЖ, 130 г",
+        "price": 99.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "848644",
+        "url": "https://www.auchan.ru/product/syr-plavlenyy-auchan-krasnaya-ptica-slivochnyy-slays-45-130-g"
+    },
+    {
+        "title": "Сыр плавленый сливочный порционный АШАН Красная птица 50% БЗМЖ, 130 г",
+        "price": 107.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "854375",
+        "url": "https://www.auchan.ru/product/syr-plavlenyy-auchan-krasnaya-ptica-slivochnyy-porcionnyy-50-130-g"
+    },
+    {
+        "title": "Сыр полутвердый «Каждый День» Российский нарезка 45% БЗМЖ, 150 г",
+        "price": 129.98,
+        "brand": "Каждый день",
+        "articleId": "576237",
+        "url": "https://www.auchan.ru/product/kdsyr_rossnar150g_bzmzh"
+    },
+    {
+        "title": "Сыр полутвердый «Каждый День» Российский нарезка 45% БЗМЖ, 350 г",
+        "price": 297.22,
+        "brand": "Каждый день",
+        "articleId": "576241",
+        "url": "https://www.auchan.ru/product/kdsyr_rossnar350g_bzmzh"
+    },
+    {
+        "title": "Сыр полутвердый «Каждый День» Российский тертый 45% БЗМЖ, 150 г",
+        "price": 119.98,
+        "brand": "Каждый день",
+        "articleId": "576248",
+        "url": "https://www.auchan.ru/product/kdsyr_rosstertyy_150g_bzmzh"
+    },
+    {
+        "title": "Сыр полутвердый «Каждый день» Костромской 45% нарезка БЗМЖ, 150 г",
+        "price": 127.99,
+        "brand": "Каждый день",
+        "articleId": "507851",
+        "url": "https://www.auchan.ru/product/kdsyr_kostromskoy45_150_bzmzh"
+    },
+    {
+        "title": "Сыр полутвердый «Каждый день» Костромской 45% нарезка БЗМЖ, 350 г",
+        "price": 292.67,
+        "brand": "Каждый день",
+        "articleId": "507857",
+        "url": "https://www.auchan.ru/product/kdsyr_kostromskoy45_350_bzmzh"
+    },
+    {
+        "title": "Сыр полутвердый «Каждый день» Пошехонский 45% нарезка БЗМЖ, 150 г",
+        "price": 127.99,
+        "brand": "Каждый день",
+        "articleId": "507829",
+        "url": "https://www.auchan.ru/product/kdsyr_poshehonskiy45_150_bzmzh"
+    },
+    {
+        "title": "Сыр полутвердый «Каждый день» Пошехонский 45% нарезка БЗМЖ, 350 г",
+        "price": 292.67,
+        "brand": "Каждый день",
+        "articleId": "507840",
+        "url": "https://www.auchan.ru/product/kdsyr_poshehonskiy45350_bzmzh"
+    },
+    {
+        "title": "Сыр полутвердый «Каждый день» Сливочный нарезка 50% БЗМЖ, 150 г",
+        "price": 119.99,
+        "brand": "Каждый день",
+        "articleId": "916924",
+        "url": "https://www.auchan.ru/product/kd-syr-slivochnyy-narezka-150g"
+    },
+    {
+        "title": "Сыр полутвердый «Каждый день» Сливочный нарезка 50% БЗМЖ, 350 г",
+        "price": 274.38,
+        "brand": "Каждый день",
+        "articleId": "916922",
+        "url": "https://www.auchan.ru/product/kd-syr-slivochnyy-narezka-350g"
+    },
+    {
+        "title": "Сыр полутвердый АШАН Красная птица легкий 30% БЗМЖ, вес",
+        "price": 98.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "78430",
+        "url": "https://www.auchan.ru/product/kp-syr-legkiy-30-1-2-shara-ves"
+    },
+    {
+        "title": "Сыр полутвердый АШАН Красная птица со вкусом топленого молока 50% БЗМЖ, вес",
+        "price": 98.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "78422",
+        "url": "https://www.auchan.ru/product/kp-syr-s-top-mol-1-2-shara-ves"
+    },
+    {
+        "title": "Сыр полутвердый Гауда АШАН Красная птица 45% БЗМЖ, 200 г",
+        "price": 169.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "106438",
+        "url": "https://www.auchan.ru/product/kp-syr-gauda-45-200g"
+    },
+    {
+        "title": "Сыр полутвердый Сливочный «Каждый день» 45% БЗМЖ, вес",
+        "price": 65,
+        "brand": "Каждый день",
+        "articleId": "130974",
+        "url": "https://www.auchan.ru/product/kd-syr-slivochnyy-45-ves"
+    },
+    {
+        "title": "Сыр полутвердый Эдам АШАН Красная птица 45% БЗМЖ, 200 г",
+        "price": 169.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "106442",
+        "url": "https://www.auchan.ru/product/kp-syr-edam-45-200g"
+    },
+    {
+        "title": "Сыр полутвердый балыковый копченый АШАН Красная птица 40% БЗМЖ, 100 г",
+        "price": 159.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "943182",
+        "url": "https://www.auchan.ru/product/syr-kopchenyy-auhan-krasnaya-ptica-balykovyy-40-100-g"
+    },
+    {
+        "title": "Сыр полутвердый пошехонский «Каждый день» БЗМЖ, 200 г",
+        "price": 129.99,
+        "brand": "Каждый день",
+        "articleId": "943257",
+        "url": "https://www.auchan.ru/product/kd-syr-poshehonskiy-45-200gr"
+    },
+    {
+        "title": "Сыр полутвердый сливочный со вкусом топленого молока АШАН Красная птица БЗМЖ 50%, 1 шар ~1 кг",
+        "price": 989.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "113341",
+        "url": "https://www.auchan.ru/product/kp-syr-so-vkus-top-mol-50-shar"
+    },
+    {
+        "title": "Сыр рассольный Брынза Каждый день» 45% БЗМЖ, 300 г",
+        "price": 229.98,
+        "brand": "Каждый день",
+        "articleId": "118925",
+        "url": "https://www.auchan.ru/product/kdsyr_brynza300g"
+    },
+    {
+        "title": "Сыр рассольный Моцарелла «Каждый день» 45%, 100 г",
+        "price": 99.98,
+        "brand": "Каждый день",
+        "articleId": "806189",
+        "url": "https://www.auchan.ru/product/kdmocarella_shar_100g"
+    },
+    {
+        "title": "Сыр рассольный Моцарелла «Каждый день» Mozzarella Pizza 40% БЗМЖ, 200 г",
+        "price": 154.99,
+        "brand": "Каждый день",
+        "articleId": "769454",
+        "url": "https://www.auchan.ru/product/kdmocarella_picca_200g_bzmzh"
+    },
+    {
+        "title": "Сыр рассольный Моцарелла «Каждый день» мини 45%, 100 г",
+        "price": 99.99,
+        "brand": "Каждый день",
+        "articleId": "806191",
+        "url": "https://www.auchan.ru/product/kdmocarella_mini_100g"
+    },
+    {
+        "title": "Сыр растительный Тофу Классический АШАН Красная птица Vegan БЗМЖ, 250 г",
+        "price": 99.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "122517",
+        "url": "https://www.auchan.ru/product/kp-syr-tofu-klassicheskiy-250g"
+    },
+    {
+        "title": "Сыр растительный Тофу копченый АШАН Красная птица Vegan БЗМЖ, 250 г",
+        "price": 99.99,
+        "brand": "АШАН Красная птица",
+        "articleId": "122518",
+        "url": "https://www.auchan.ru/product/kp-syr-tofu-kopchenyy-250g"
+    }
+]
